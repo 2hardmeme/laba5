@@ -1,0 +1,7 @@
+D:\University\ПАЛМ\Лабораторні роботи\2 semestr\Лабораторна робота № 5\laba\laba\obj\Debug\laba.csprojAssemblyReference.cache
+D:\University\ПАЛМ\Лабораторні роботи\2 semestr\Лабораторна робота № 5\laba\laba\obj\Debug\laba.csproj.CoreCompileInputs.cache
+D:\University\ПАЛМ\Лабораторні роботи\2 semestr\Лабораторна робота № 5\laba\laba\bin\Debug\laba.exe.config
+D:\University\ПАЛМ\Лабораторні роботи\2 semestr\Лабораторна робота № 5\laba\laba\bin\Debug\laba.exe
+D:\University\ПАЛМ\Лабораторні роботи\2 semestr\Лабораторна робота № 5\laba\laba\bin\Debug\laba.pdb
+D:\University\ПАЛМ\Лабораторні роботи\2 semestr\Лабораторна робота № 5\laba\laba\obj\Debug\laba.exe
+D:\University\ПАЛМ\Лабораторні роботи\2 semestr\Лабораторна робота № 5\laba\laba\obj\Debug\laba.pdb
